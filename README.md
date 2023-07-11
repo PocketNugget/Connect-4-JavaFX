@@ -42,7 +42,7 @@ Run the main file
 
 ## Authors
 
-  - **Goben Diego C.A.** - **Jesus Nava** - **Erick Solis Zamacona** -
+  - **[Goben Diego C.A.](https://github.com/PocketNugget).** - **Jesus N.C.** - **Erick S.Z.** -
 
 ## License
 
