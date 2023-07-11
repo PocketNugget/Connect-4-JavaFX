@@ -11,7 +11,7 @@ Requirements for the software and other tools to build, test and push
 
 Clone this repo to the directory of your choice
 
-    https://github.com/PocketNugget/Connect-4-JavaFX.git
+    git clone https://github.com/PocketNugget/Connect-4-JavaFX.git
 
 Compile the main file
 
