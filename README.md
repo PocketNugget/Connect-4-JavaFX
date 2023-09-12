@@ -1,4 +1,4 @@
-# A Simple Connect 4 game on JavaFX
+# A Simple Connect 4 game on Java Swing
 
 A simple connect 4 game intended to put on practice our habilities to understand the basics of OOP in java, Our game stays true to the original rules, but we spiced things up during development. Instead of tokens, we went for a cool color change on the squares. It's simple, effective, and adds a fun twist to the gameplay.
 
