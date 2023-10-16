@@ -42,7 +42,7 @@ Run the main file
 
 ## Authors
 
-  - **[Goben Diego C.A.](https://github.com/PocketNugget).** - **Jesus N.C.** - **Erick S.Z.** -
+  - **[Goben Diego C.A.](https://github.com/PocketNugget).** - **Jesus N.C.** - **[Erick S.Z.](https://github.com/ericksolisz)** -
 
 ## License
 
